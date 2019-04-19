@@ -1,0 +1,16 @@
+D:\aspzero\aspnet-core\src\GWebsite.AbpZeroTemplate.Core\bin\Debug\netcoreapp2.1\GWebsite.AbpZeroTemplate.Core.dll.config
+D:\aspzero\aspnet-core\src\GWebsite.AbpZeroTemplate.Core\bin\Debug\netcoreapp2.1\GWebsite.AbpZeroTemplate.Core.deps.json
+D:\aspzero\aspnet-core\src\GWebsite.AbpZeroTemplate.Core\bin\Debug\netcoreapp2.1\GWebsite.AbpZeroTemplate.Core.runtimeconfig.json
+D:\aspzero\aspnet-core\src\GWebsite.AbpZeroTemplate.Core\bin\Debug\netcoreapp2.1\GWebsite.AbpZeroTemplate.Core.runtimeconfig.dev.json
+D:\aspzero\aspnet-core\src\GWebsite.AbpZeroTemplate.Core\bin\Debug\netcoreapp2.1\GWebsite.AbpZeroTemplate.Core.dll
+D:\aspzero\aspnet-core\src\GWebsite.AbpZeroTemplate.Core\bin\Debug\netcoreapp2.1\GWebsite.AbpZeroTemplate.Core.pdb
+D:\aspzero\aspnet-core\src\GWebsite.AbpZeroTemplate.Core\bin\Debug\netcoreapp2.1\GSoft.AbpZeroTemplate.Core.Shared.dll
+D:\aspzero\aspnet-core\src\GWebsite.AbpZeroTemplate.Core\bin\Debug\netcoreapp2.1\GSoft.AbpZeroTemplate.Core.Shared.pdb
+D:\aspzero\aspnet-core\src\GWebsite.AbpZeroTemplate.Core\obj\Debug\netcoreapp2.1\GWebsite.AbpZeroTemplate.Core.csprojAssemblyReference.cache
+D:\aspzero\aspnet-core\src\GWebsite.AbpZeroTemplate.Core\obj\Debug\netcoreapp2.1\GWebsite.AbpZeroTemplate.Core.dll.config
+D:\aspzero\aspnet-core\src\GWebsite.AbpZeroTemplate.Core\obj\Debug\netcoreapp2.1\GWebsite.AbpZeroTemplate.Core.csproj.CoreCompileInputs.cache
+D:\aspzero\aspnet-core\src\GWebsite.AbpZeroTemplate.Core\obj\Debug\netcoreapp2.1\GWebsite.AbpZeroTemplate.Core.AssemblyInfoInputs.cache
+D:\aspzero\aspnet-core\src\GWebsite.AbpZeroTemplate.Core\obj\Debug\netcoreapp2.1\GWebsite.AbpZeroTemplate.Core.AssemblyInfo.cs
+D:\aspzero\aspnet-core\src\GWebsite.AbpZeroTemplate.Core\obj\Debug\netcoreapp2.1\GWebsite.AbpZeroTemplate.Core.csproj.CopyComplete
+D:\aspzero\aspnet-core\src\GWebsite.AbpZeroTemplate.Core\obj\Debug\netcoreapp2.1\GWebsite.AbpZeroTemplate.Core.dll
+D:\aspzero\aspnet-core\src\GWebsite.AbpZeroTemplate.Core\obj\Debug\netcoreapp2.1\GWebsite.AbpZeroTemplate.Core.pdb
