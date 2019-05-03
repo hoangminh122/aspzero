@@ -111,7 +111,7 @@ Write(Html.Partial("~/Areas/AppAreaName/Views/Common/Modals/_ModalHeader.cshtml"
             WriteLiteral("\n            </a>\n        </li>\n    </ul>\n    <div class=\"tab-content\">\n        <div class=\"tab-pane active\" id=\"MySettingsTab\">\n\n            ");
             EndContext();
             BeginContext(1035, 4187, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f45638c7b9064c36b52a7b875456810f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8804e9820fba4245814bf5119ec589fc", async() => {
                 BeginContext(1083, 80, true);
                 WriteLiteral("\n                <div class=\"form-group\">\n                    <label for=\"Name\">");
                 EndContext();

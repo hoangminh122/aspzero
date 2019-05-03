@@ -247,7 +247,7 @@ WriteAttributeValue("", 3339, L("Expand"), 3339, 12, false);
                 ");
             EndContext();
             BeginContext(4333, 3272, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e1a466aae07640ba8ce75c56f933ad14", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "55b119b73b524aafaaf6d370ff63b047", async() => {
                 BeginContext(4395, 247, true);
                 WriteLiteral("\n                    <div id=\"files\" class=\"files\"></div>\n                    <div class=\"col-md-12\" style=\"margin: 5px; padding-right: 25px;\">\n                        <button id=\"UnblockUserButton\" type=\"button\" class=\"btn btn-block btn-success\">");
                 EndContext();
@@ -383,7 +383,7 @@ WriteAttributeValue("", 5655, L("Attach"), 5655, 12, false);
             WriteLiteral("\n            </div>\n        </div>\n    </div>\n</div>\n<!-- end::Quick Sidebar -->\n\n");
             EndContext();
             BeginContext(7687, 1012, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8c86a26281604cf183894f3b791d0313", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f8bf359625f948b19cb60b839700bce3", async() => {
                 BeginContext(7742, 948, true);
                 WriteLiteral(@"
     {{#.}}
@@ -436,7 +436,7 @@ WriteAttributeValue("", 5655, L("Attach"), 5655, 12, false);
             WriteLiteral("\n\n");
             EndContext();
             BeginContext(8701, 881, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "da75f9a803bc4a41943e166a8d2a12cc", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "add04cc445474dab9e624f244796b8fd", async() => {
                 BeginContext(8761, 812, true);
                 WriteLiteral(@"
     {{#.}}

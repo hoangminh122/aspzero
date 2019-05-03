@@ -16,31 +16,31 @@ namespace GWebsite.AbpZeroTemplate.Application.Controllers
         }
 
         [HttpGet]
-        public PagedResultDto<TraCuuBDSDto> GetCustomersByFilter(TraCuuBDSFilter customerFilter)
+        public PagedResultDto<TraCuuBDSDto> GetTraCuuBDSByFilter(TraCuuBDSFilter customerFilter)
         {
             return customerAppService.GetTraCuuBDS(customerFilter);
         }
 
         [HttpGet]
-        public TraCuuBDSInput GetCustomerForEdit(int id)
+        public TraCuuBDSInput GetTraCuuBDSForEdit(int id)
         {
             return customerAppService.GetTraCuuBDSForEdit(id);
         }
 
         [HttpPost]
-        public void CreateOrEditCustomer([FromBody] TraCuuBDSInput input)
+        public void CreateOrEditTraCuuBDS([FromBody] TraCuuBDSInput input)
         {
             customerAppService.CreateOrEdittTraCuuBDS(input);
         }
 
         [HttpDelete("{id}")]
-        public void DeleteCustomer(int id)
+        public void DeleteTraCuuBDS(int id)
         {
             customerAppService.DeleteTraCuuBDS(id);
         }
 
         [HttpGet]
-        public TraCuuBDSForViewDto GetCustomerForView(int id)
+        public TraCuuBDSForViewDto GetTraCuuBDSForView(int id)
         {
             return customerAppService.GetTraCuuBDSForView(id);
         }

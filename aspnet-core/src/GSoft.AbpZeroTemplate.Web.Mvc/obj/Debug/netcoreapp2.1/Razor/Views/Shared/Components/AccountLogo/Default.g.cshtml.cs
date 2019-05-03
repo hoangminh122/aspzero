@@ -54,7 +54,7 @@ using GSoft.AbpZeroTemplate.Web.Theme;
             WriteLiteral("<div class=\"logo\">\n    ");
             EndContext();
             BeginContext(197, 110, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5e41c247808746ee818b0ea7cb8d8a2e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6229af161f7945b3aaf2639bae300118", async() => {
                 BeginContext(210, 13, true);
                 WriteLiteral("\n        <img");
                 EndContext();

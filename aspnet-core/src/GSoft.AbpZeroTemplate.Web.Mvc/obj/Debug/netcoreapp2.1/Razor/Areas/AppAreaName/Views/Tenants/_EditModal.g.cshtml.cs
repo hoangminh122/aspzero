@@ -81,7 +81,7 @@ Write(Html.Partial("~/Areas/AppAreaName/Views/Common/Modals/_ModalHeader.cshtml"
             WriteLiteral("\n\n<div class=\"modal-body\">\n\n    ");
             EndContext();
             BeginContext(415, 3007, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7471ce5e88cf47dc8c4226f7d88c1cf3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b6a3a6dcb381449c84268df42a5fd07f", async() => {
                 BeginContext(451, 40, true);
                 WriteLiteral("\n\n        <input type=\"hidden\" name=\"Id\"");
                 EndContext();
@@ -215,7 +215,7 @@ WriteAttributeValue("", 1217, Tenant.MaxConnectionStringLength, 1217, 33, false)
                 WriteLiteral("                    ");
                 EndContext();
                 BeginContext(1702, 121, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6784fcdedbc7437b8d8bad69ec07a005", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "98bcb0aa93614bf8b4e2ad912a43d1e0", async() => {
                     BeginContext(1795, 19, false);
 #line 38 "D:\aspzero\aspnet-core\src\GSoft.AbpZeroTemplate.Web.Mvc\Areas\AppAreaName\Views\Tenants\_EditModal.cshtml"
                                                                                                            Write(edition.DisplayText);

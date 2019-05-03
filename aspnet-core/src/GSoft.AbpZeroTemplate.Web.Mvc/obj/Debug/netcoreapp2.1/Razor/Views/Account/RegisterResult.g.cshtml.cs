@@ -60,7 +60,7 @@ using Abp.Localization;
             WriteLiteral("\n        </h3>\n    </div>\n    ");
             EndContext();
             BeginContext(240, 950, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4e8a9ae5e9894319a897a567d93caa7d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "90bc78d57cf54fa8ac906bf9979caee4", async() => {
                 BeginContext(286, 55, true);
                 WriteLiteral("\n        <ul>\n            <li><span class=\"text-muted\">");
                 EndContext();

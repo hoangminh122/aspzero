@@ -68,7 +68,7 @@ Write(Html.Partial("~/Areas/AppAreaName/Views/Common/Modals/_ModalHeader.cshtml"
             WriteLiteral("\n\n<div class=\"modal-body\">\n    ");
             EndContext();
             BeginContext(261, 368, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a0a761ea95d44dbca9d155c3c4a9cb55", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4cd073d5238645c5a68cf76331b0dcb5", async() => {
                 BeginContext(377, 136, true);
                 WriteLiteral("\n        <div class=\"form-group\">\n            <input type=\"file\" name=\"ProfilePicture\" />\n            <span class=\"help-block m-b-none\">");
                 EndContext();

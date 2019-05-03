@@ -75,7 +75,7 @@ using GSoft.AbpZeroTemplate.MultiTenancy;
                 WriteLiteral("\n    ");
                 EndContext();
                 BeginContext(221, 138, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "54d01054a97642f8a077db1ec53c471a", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "072cfaffde96492c9e1f15ffc412eb17", async() => {
                     BeginContext(229, 44, true);
                     WriteLiteral("\n        window.passwordComplexitySetting = ");
                     EndContext();
@@ -105,7 +105,7 @@ using GSoft.AbpZeroTemplate.MultiTenancy;
                 WriteLiteral("\n\n    ");
                 EndContext();
                 BeginContext(365, 95, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fc259d1acf5d4c6791696571d8cbd1be", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a30c551f54984f11bbe88b51cbc71f29", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_ScriptTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.ScriptTagHelper>();
@@ -132,7 +132,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ScriptTagHelper.AppendVersion = true;
                 WriteLiteral("\n\n    ");
                 EndContext();
                 BeginContext(466, 20, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("recaptcha-script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "e50fb9af056e463dac2ae9271b12cbe4", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("recaptcha-script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "e4bea8ec493e455499167767cff3259a", async() => {
                 }
                 );
                 __PaulMiami_AspNetCore_Mvc_Recaptcha_TagHelpers_RecaptchaScriptTagHelper = CreateTagHelper<global::PaulMiami.AspNetCore.Mvc.Recaptcha.TagHelpers.RecaptchaScriptTagHelper>();
@@ -164,7 +164,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ScriptTagHelper.AppendVersion = true;
             WriteLiteral("\n        </h3>\n    </div>\n    ");
             EndContext();
             BeginContext(642, 3039, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff7087bbd341446a801f300d376fcc09", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f6853324a6ce4830becaf121763b862b", async() => {
                 BeginContext(727, 2, true);
                 WriteLiteral("\n\n");
                 EndContext();
@@ -403,7 +403,7 @@ WriteAttributeValue("", 2951, L("PasswordRepeat"), 2951, 20, false);
                 WriteLiteral("\n            </p>\n            <div class=\"form-group margin-bottom-20\">\n                ");
                 EndContext();
                 BeginContext(3244, 13, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("recaptcha", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "4d8fe38961b049589652f72d20ed771e", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("recaptcha", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "e3da2233b4284800a944dfaf50522504", async() => {
                 }
                 );
                 __PaulMiami_AspNetCore_Mvc_Recaptcha_TagHelpers_RecaptchaTagHelper = CreateTagHelper<global::PaulMiami.AspNetCore.Mvc.Recaptcha.TagHelpers.RecaptchaTagHelper>();
@@ -428,7 +428,7 @@ WriteAttributeValue("", 2951, L("PasswordRepeat"), 2951, 20, false);
                 WriteLiteral("        \n        <div class=\"m-login__form-action\">\n            ");
                 EndContext();
                 BeginContext(3351, 155, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "25f39667afdc4582b5b928d6f9b4c056", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "052b3bb88cde479fb8045575c241847d", async() => {
                     BeginContext(3373, 110, true);
                     WriteLiteral("<button type=\"button\" id=\"register-back-btn\" class=\"btn btn-outline-primary  m-btn m-btn--pill m-btn--custom\">");
                     EndContext();

@@ -4,7 +4,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title">
-                    <span *ngIf="customer.id">{{l("EditCustomer")}}: {{customer.name}}</span>
+                    <span *ngIf="customer.id">{{l("EditCustomer")}}: {{customer.maBDS}}</span>
                     <span *ngIf="!customer.id">{{l("CreateNewCustomer")}}</span>
                 </h4>
                 <button type="button" class="close" (click)="close()" [attr.aria-label]="l('Close')">
@@ -13,15 +13,15 @@
             </div>
             <div class="modal-body">
                 <div class="form-group">
-                    <label>Tên khách hàng</label>
-                    <p>{{customer.name}}</p>
+                    <label>Mã Bất Động Sản</label>
+                    <p>{{customer.maBDS}}</p>
                 </div>
                 <div class="form-group">
-                    <label>Địa chỉ</label>
+                    <label>Tên Địa điểm BĐS</label>
                     <p>{{customer.address}}</p>
                 </div>
                 <div class="form-group">
-                    <label>Thông tin</label>
+                    <label>Loại BĐS</label>
                     <p>{{customer.info}}</p>
                 </div>
             </div>

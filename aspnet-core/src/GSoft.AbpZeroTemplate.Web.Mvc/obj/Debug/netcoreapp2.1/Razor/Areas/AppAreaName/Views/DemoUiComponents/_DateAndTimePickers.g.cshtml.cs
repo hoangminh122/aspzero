@@ -60,7 +60,7 @@ using Abp.Localization;
             WriteLiteral("\n                </h3>\n            </div>\n        </div>\n    </div>\n    <div class=\"m-portlet__body\">\n        ");
             EndContext();
             BeginContext(374, 1700, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "153d841165f9464295ac76a594920cfc", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a2c5b1469ac141749652d3b6f2d88d1b", async() => {
                 BeginContext(392, 446, true);
                 WriteLiteral(@"
             

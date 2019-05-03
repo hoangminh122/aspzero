@@ -4,7 +4,7 @@ using GWebsite.AbpZeroTemplate.Core.Models;
 namespace GWebsite.AbpZeroTemplate.Application.Share.TraCuuBDSs.Dto
 {
     /// <summary>
-    /// <model cref="Customer"></model>
+    /// <model cref="TraCuuBDS"></model>
     /// </summary>
     public class TraCuuBDSDto : Entity<int>
     {

@@ -92,7 +92,7 @@ export class CustomerComponent extends AppComponentBase implements AfterViewInit
     init(): void {
         //get params từ url để thực hiện filter
         this._activatedRoute.params.subscribe((params: Params) => {
-            this.customerName = params['name'] || '';
+            this.customerName = params['maBDS'] || '';
             this.reloadList(this.customerName, null);
         });
     }

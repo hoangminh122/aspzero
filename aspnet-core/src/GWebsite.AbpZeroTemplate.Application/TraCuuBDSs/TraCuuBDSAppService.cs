@@ -15,9 +15,9 @@ namespace GWebsite.AbpZeroTemplate.Web.Core.TraCuuBDSs
     [AbpAuthorize(GWebsitePermissions.Pages_Administration_MenuClient)]
     public class TraCuuBDSAppService : GWebsiteAppServiceBase, ITraCuuBDSAppService
     {
-        private readonly IRepository<Customer> customerRepository;
+        private readonly IRepository<TraCuuBDS> customerRepository;
 
-        public TraCuuBDSAppService(IRepository<Customer> customerRepository)
+        public TraCuuBDSAppService(IRepository<TraCuuBDS> customerRepository)
         {
             this.customerRepository = customerRepository;
         }
@@ -66,7 +66,7 @@ namespace GWebsite.AbpZeroTemplate.Web.Core.TraCuuBDSs
             // filter by value
             if (input.maBDS != null)
             {
-                query = query.Where(x => x.Name.ToLower().Equals(input.maBDS));
+                query = query.Where(x => x.maBDS.ToLower().Equals(input.maBDS));
             }
 
             var totalCount = query.Count();
@@ -93,7 +93,7 @@ namespace GWebsite.AbpZeroTemplate.Web.Core.TraCuuBDSs
         [AbpAuthorize(GWebsitePermissions.Pages_Administration_MenuClient_Create)]
         private void Create(TraCuuBDSInput customerInput)
         {
-            var customerEntity = ObjectMapper.Map<Customer>(customerInput);
+            var customerEntity = ObjectMapper.Map<TraCuuBDS>(customerInput);
             SetAuditInsert(customerEntity);
             customerRepository.Insert(customerEntity);
             CurrentUnitOfWork.SaveChanges();

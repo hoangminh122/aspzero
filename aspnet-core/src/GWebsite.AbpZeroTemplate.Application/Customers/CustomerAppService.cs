@@ -72,9 +72,9 @@ namespace GWebsite.AbpZeroTemplate.Web.Core.Customers
             var query = customerRepository.GetAll().Where(x => !x.IsDelete);
 
             // filter by value
-            if (input.Name != null)
+            if (input.maBDS != null)
             {
-                query = query.Where(x => x.Name.ToLower().Equals(input.Name));
+                query = query.Where(x => x.maBDS.ToLower().Equals(input.maBDS));
             }
 
             var totalCount = query.Count();
